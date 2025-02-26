@@ -4,7 +4,7 @@ This repository contains two sophisticated automation projects that demonstrate 
 
 ## Project Overview
 
-### [Trading Bot System](./Trading%20Bot%20Project/)
+### [Trading Bot System](./Trading%20Bot/)
 
 A high-performance trading system built in Rust that monitors 10,000+ items across multiple e-commerce platforms simultaneously. Key features:
 
@@ -15,7 +15,7 @@ A high-performance trading system built in Rust that monitors 10,000+ items acro
 
 This system ran successfully on minimal hardware (8GB RAM VDS) while handling extensive data processing and network operations.
 
-### [US Visa Appointment Bot](./Visa%20Appointment%20Bot%20Project/)
+### [US Visa Appointment Bot](./US%20Visa%20Appointment%20Bot/)
 
 A sophisticated monitoring system for automatically securing US visa appointments. Key features:
 
